@@ -1,0 +1,23 @@
+{
+  "name": "tis-tos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "chalk-animation": "^2.0.2",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.1",
+    "inquirer": "^9.0.0",
+    "nanospinner": "^1.1.0",
+    "puppeteer": "^15.1.1",
+    "puppeteer-core": "^15.1.1"
+  }
+}
